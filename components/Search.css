@@ -1,0 +1,9 @@
+.search-button {
+    background-color: #111;
+  border: 2px white;
+  border-radius: 50px;
+  font-family: inherit;
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+  color: #fff;
+}
